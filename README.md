@@ -1,5 +1,7 @@
 # term.js
-
+```diff
+- This repository removes the fs dependency for compatibility with the nextjs framework
+```
 A full xterm clone written in javascript. Used by
 [**tty.js**](https://github.com/chjj/tty.js).
 
